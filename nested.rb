@@ -16,7 +16,7 @@ def hopper
         }
      }
 end
-:grace_hopper key 
+:grace_hopper 
 
 
 def alan_kay_is_known_for
