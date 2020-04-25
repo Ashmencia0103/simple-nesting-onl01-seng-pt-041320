@@ -16,7 +16,7 @@ def hopper
         }
      }
 end
-hopper =["grace_hopper"][:grace_hopper]
+programmer_hash = grace_hopper.dig(:known_for, :languages)
 
 
 def alan_kay_is_known_for
