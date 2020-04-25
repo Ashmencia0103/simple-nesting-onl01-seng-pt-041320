@@ -16,7 +16,7 @@ def hopper
         }
      }
 end
-hopper["grace_hopper","known_for","languages"]
+hopper
 
 
 def alan_kay_is_known_for
