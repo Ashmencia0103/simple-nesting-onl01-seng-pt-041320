@@ -5,10 +5,7 @@ def hopper
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
-        }
-      }
-    end
-  # programmer_hash
+        },
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
@@ -17,9 +14,9 @@ def hopper
           :known_for => "Unix",
           :languages => ["C"]
         }
-
+     }
 end
-
+:grace_hopper key 
 
 
 def alan_kay_is_known_for
